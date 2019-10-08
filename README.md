@@ -3,10 +3,10 @@ C90 to MIPS 1 Compiler
 
 For full project requirements and specification please refer to: https://github.com/LangProc/langproc-2018-cw
 
--This compiler is written in C++ for ANSI C90
--Lexical analysis is done using Flex, AST tree is parsed using Bison
--Project also includes a (simple) C-to-Python translator
--The target environment is Ubuntu 16 (college lab environment)
+-   This compiler is written in C++ for ANSI C90 
+-   Lexical analysis is done using Flex, AST tree is parsed using Bison
+-   Project also includes a (simple) C-to-Python translator
+-   The target environment is Ubuntu 16 (college lab environment)
 
 Assumptions: input C is pre-processed C90 for both compiler and translator.
 
